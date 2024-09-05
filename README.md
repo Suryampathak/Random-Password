@@ -28,4 +28,13 @@ To run this web app, all you need is a modern web browser like Chrome, Firefox, 
 2. Navigate to the project directory.
 
 3. Open the `index.html` file in your browser to launch the app.
+
+## Usage
+1. Open the app in a web browser.
+2. Click the "Generate Password" button to create a random password.
+3. The generated password will be displayed along with its calculated strength.
+4. Use the password for your accounts or securely store it.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
    
